@@ -93,7 +93,7 @@
                 $j=sqlsrv_fetch_array($q,SQLSRV_FETCH_ASSOC);
                 // print_r($j['']);
                 $i=$j['']+1;
-                echo $i;
+                
                 $sql="INSERT INTO $tablename(sender,message,time,date,i)VALUES ('A','$message','$time','$date','$i')";
                 $results=sqlsrv_query($conn,$sql);
                 if ($results){
