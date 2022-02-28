@@ -6,7 +6,6 @@
 		session_start();
 		$_SESSION['name']=$name;
 		$_SESSION['mobno']=$mobno;
-		echo $_SESSION['name']."=>".$_SESSION['mobno'];
 		header("Location: user-chat.php");
 	}
 ?>
