@@ -18,6 +18,7 @@ B)	How are we solving:
 2)Frontline Helper:
 
 2.1) We assign login credentials through which admin handle queries of people, through friendly web interface which is similar to watts-app on which they can discuss and maintain status of queries (open, closed, solved).
+- ## For admin login use email="bob@gmail.com", password="bob1112"
 <br></br><img src="https://github.com/Kr321Manish/azure_project/blob/main/ScreenShorts/6.PNG"></img><br></br>
 - Admin can reset their password using thier unique service number.
 <br></br><img src="https://github.com/Kr321Manish/azure_project/blob/main/ScreenShorts/8.PNG"></img><br></br>
