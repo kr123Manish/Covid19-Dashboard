@@ -45,7 +45,7 @@
 				<img src="mail2.svg">
 			</div>
 			<div class="frame">
-				<iframe src='https://webchat.botframework.com/embed/fnq-bot-bot?s=nVRzANNhx30.rQ-R5gQNdoXTyrucaIq7B7saNQiQhWS42ykaHUw4BV8'></iframe>
+				<iframe src=''></iframe>
 			</div>
 		</div>
 		<div class="h1" id="message">
