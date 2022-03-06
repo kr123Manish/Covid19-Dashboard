@@ -1,10 +1,10 @@
 <?php 
 	$error = "";
-	$serverName = "tcp:user-admin-main-server.database.windows.net,1433"; // update me
+	$serverName = ""; // update me
     	$connectionOptions = array(
         "Database" => "maindatabase", // update me
-        "Uid" => "user-admin-main-server", // update me
-        "PWD" => "Manish123#" // update me
+        "Uid" => "", // update me
+        "PWD" => "" // update me
     	);
 	    //Establishes the connection
 	$conn = sqlsrv_connect($serverName, $connectionOptions);
