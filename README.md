@@ -1,4 +1,5 @@
-## :zap: Project Title*: Covid19 Dashboard <a href='https://finaldev.azurewebsites.net/'>:smiley: click for demo</a>
+## :zap: Project Title*: Covid19 Dashboard 
+<!-- <a href='https://finaldev.azurewebsites.net/'>:smiley: click for demo</a> -->
 ### Problem Statement/Opportunity*: 
 Due to pandemic of covid19 everyone affected and move toward online medical services with lots of queries regarding symptoms, safety, myths, vaccination info and many more. But because of unfriendly interface of online medical service provider most of the people don’t prefer it and go to covid center’s or hospitals directly which increases unnecessary crowd, to solve this issue I build a user-friendly full stack web app with the prospective of both user and admin to raise and solve their quarries online easily.
 ## Project Description*:
@@ -32,6 +33,6 @@ B)	How are we solving:
 2.2) In custom way admin can search user through mobile no, which acts as a primary key.
 <br></br><img src="https://github.com/Kr321Manish/azure_project/blob/main/ScreenShorts/3.PNG"></img><br></br>
 
-## <a href='https://finaldev.azurewebsites.net/'>:smiley: Project demo link</a>
+<!-- ## <a href='https://finaldev.azurewebsites.net/'>:smiley: Project demo link</a> -->
 #### If you liked :smiley: it don't forget to :star: it.
 
